@@ -1,6 +1,6 @@
-1 name   age
-2 milli   20
-3 evodie  20
-4 florence 20
-5 gaju     20
-6 queen    20
+name,age
+Milli,10
+Evodie,20
+Florence,25
+Gaju,22
+Queen,24
